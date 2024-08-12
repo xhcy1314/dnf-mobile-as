@@ -1,0 +1,13 @@
+path: ./datasets/dnfm
+
+train: ./train/images
+val: ./train/images
+
+test: 
+
+nc: 2
+
+names: [
+  monster,
+  role,
+]
